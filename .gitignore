@@ -7,4 +7,4 @@
 *.tfstate.backup
 *.exe
 crash.log
-/.documentation/explanation.docx
+/documentation/explanation.docx
