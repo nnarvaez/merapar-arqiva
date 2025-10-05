@@ -1,0 +1,9 @@
+/user.txt
+/.terraform.terraform/
+/terraform/.terraform.lock.hcl
+# Terraform hygiene
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.exe
+crash.log
